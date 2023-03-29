@@ -1,5 +1,6 @@
 import java.time.LocalDate;
 
+import br.com.dio.desafio.dominio.Conteudo;
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Mentoria;
 
@@ -9,7 +10,9 @@ public class Main {
 
         Curso curso1 = new Curso();
         Curso curso2 = new Curso();
+        Conteudo conteudo1 = new Curso();
         Mentoria mentoria1 = new Mentoria();
+        Conteudo conteudo2 = new Mentoria();
 
         curso1.setTitulo("curso Java");
         curso1.setdescricao("descrição curso Java");
