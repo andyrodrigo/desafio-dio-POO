@@ -11,7 +11,7 @@ O foco é utilizar os aprendizados de Java do módulo "Programação Orientada a
 >Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio. Neste desafio, você poderá desenvolver sua capacidade de abstração com um problema real e implementar as evoluções que achar interessante.
 
 ## Resultado
-![Saída do Programa](Imagens/resultado.png)
+![Saída do Programa](resultado.png)
 
 ## Status do Projeto
 > Concluído
